@@ -1,0 +1,2 @@
+Designed for training guitar fretboard skills, the user will be given a string on the guitar, and a numbered fret. The user is to play that string and fret before the next is given (on a set timer). The timer can be increased or decreased to match the user's abilities. 
+note: node_modules not pushed, run npm i
